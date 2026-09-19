@@ -1,0 +1,1 @@
+-task StartClient -placeId 0 -universeId 0 -placeVersion 0 -server 23.158.232.71 -port 5440 -parentSessionGuid 7064EA54-A07C-41A4-978A-A9D00C3B1E25 -playTestSessionGuid 1F0C2C3A-2412-4EB5-B7C9-03CF845B3FBC -instanceId StudioPlayer_Host
